@@ -20,14 +20,38 @@ Tenho forte interface com áreas de negócio, especialmente em contextos de **Pe
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Skills
 
-- **Linguagens:** Python, SQL  
-- **Plataformas de Dados:** Databricks  
-- **Integração:** TIBCO BusinessWorks, APIs SOAP  
-- **Bancos de Dados:** PostgreSQL, Oracle  
-- **Dados Corporativos:** Workday  
-- **Governança & Qualidade de Dados**
+### 🔹 Engenharia de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E3E?style=flat-square&logo=databricks&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4CAF50?style=flat-square)
+![Workday](https://img.shields.io/badge/Workday-0B5CAB?style=flat-square)
+![TIBCO](https://img.shields.io/badge/TIBCO-BE1E2D?style=flat-square)
+
+---
+
+### 🔹 Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+### 🔹 Experiência adicional em desenvolvimento
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### 🔹 Ferramentas & Ambiente
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
