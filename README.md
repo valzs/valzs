@@ -1,16 +1,48 @@
-## Hi there 👋
+<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<!--
-**valzs/valzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Valéria 👋
 
-Here are some ideas to get you started:
+### Engenheira de Dados | Python • SQL • Databricks • ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Engenheira de Dados com experiência no desenvolvimento de soluções de dados escaláveis e confiáveis em ambientes corporativos. Atuo com integração, transformação e padronização de dados, construção de pipelines analíticos e garantia de qualidade e governança da informação.
+
+Tenho forte interface com áreas de negócio, especialmente em contextos de **People & Culture**, transformando dados em insumos confiáveis para análises e decisões estratégicas.
+
+---
+
+## 🧠 O que eu faço no dia a dia
+
+- Engenharia e transformação de dados em ambientes corporativos  
+- Construção e manutenção de **pipelines de dados (ETL)**  
+- Integração entre sistemas corporativos e plataformas analíticas  
+- Garantia de **qualidade, governança e confiabilidade dos dados**  
+- Tradução de demandas de negócio em soluções técnicas escaláveis  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** Python, SQL  
+- **Plataformas de Dados:** Databricks  
+- **Integração:** TIBCO BusinessWorks, APIs SOAP  
+- **Bancos de Dados:** PostgreSQL, Oracle  
+- **Dados Corporativos:** Workday  
+- **Governança & Qualidade de Dados**
+
+---
+
+## 📚 Formação
+
+- Pós-graduação em **Machine Learning Engineering** (em andamento)  
+- Formação em Tecnologia da Informação  
+
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-souz-santos/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/valzs)
+
+---
+
+📌 *Este repositório é utilizado para estudos, projetos técnicos e experimentações em dados e engenharia de dados.*
